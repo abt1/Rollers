@@ -1,5 +1,6 @@
 //This code controls the full quencher, with both rollers and all peripheral devices
 //For any electronics issues, please check the Arduino Project Book
+//Author: Alex Todd, 22/04/2020, University of Bath
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(12, 11, 5, 8, 6, 13);  //Connection pins for LCD screen
 int const sensorAPin = A0;  //Sensor pin numbers
