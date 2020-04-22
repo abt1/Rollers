@@ -1,5 +1,6 @@
 //This script runs one roller at a controlled speed
 //See Arduino Project Book for explanation of how to connect things
+//Author: Alex Todd, 22/04/2020, University of Bath
 int const sensorPin = A0;  //Pin sensor is connected to
 int sensorValue = 0;
 const int motorPin = 9;  //Pin motor is connected to
