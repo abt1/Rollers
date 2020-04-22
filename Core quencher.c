@@ -1,5 +1,6 @@
 //This code controls the complete core quencher- two rollers and sensors, but no peripherals except a red and a green LED
 //Refer to Arduino Project Book for explanation of how to connect things
+//Author: Alex Todd, 22/04/2020, University of Bath
 int const sensorAPin = A0;  //Sensor pin numbers
 int const sensorBPin = A1;
 int sensorAValue = 0;
